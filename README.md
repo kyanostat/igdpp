@@ -15,6 +15,6 @@ The program requires the following packages:
 - pandas
 - dppy
 
-# Figures
+# Garallies 
 ![Comparison of Probability](https://github.com/kyanostat/igdpp/blob/main/Figure/Prob_comp.png)
 ![Draw of theta](https://github.com/kyanostat/igdpp/blob/main/Figure/Draw_theta.png)
