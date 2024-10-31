@@ -18,6 +18,10 @@ The program requires the following packages:
 # Garallies 
 
 Comparison of Probability
+
+
 ![Comparison of Probability](https://github.com/kyanostat/igdpp/blob/main/Figure/Prob_comp.png)
 Figure of $\theta$
+
+
 ![Draw theta](https://github.com/kyanostat/igdpp/blob/main/Figure/Draw_theta.png)
