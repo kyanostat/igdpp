@@ -19,9 +19,9 @@ The program requires the following packages:
 
 Comparison of Probability
 
+<img src="https://github.com/kyanostat/igdpp/blob/main/Figure/Prob_comp.png" width="50%">
 
-![Comparison of Probability](https://github.com/kyanostat/igdpp/blob/main/Figure/Prob_comp.png)
 Figure of $\theta$
 
 
-![Draw theta](https://github.com/kyanostat/igdpp/blob/main/Figure/Draw_theta.png)
+<img src="https://github.com/kyanostat/igdpp/blob/main/Figure/Draw_theta.png" width="50%">
